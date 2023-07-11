@@ -1,5 +1,6 @@
-import "./App.css";
-import MeteoForm from "./components/MeteoForm/MeteoForm";
+import React from 'react';
+import './App.css';
+import MeteoForm from './components/MeteoForm/MeteoForm';
 
 function App() {
   return (
